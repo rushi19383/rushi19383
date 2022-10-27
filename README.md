@@ -7,7 +7,7 @@
 - 2606 is a recent google Kick Start rank. 
 
 
-- 📫 How to reach me ...
+- you can reach out to me ...
 - 
 
 <!---
