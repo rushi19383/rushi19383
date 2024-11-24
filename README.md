@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rushikesh Kantule
 - 👀 I’m interested in blockchain, and solidity..
 - 🌱 I’m  learning ...
-- I'm Rushikesh Kantule from Pune, India pursuing Computer Engineering. 
+- I'm Rushikesh Kantule Computer Engineering from Pune, India. 
 - I love to participate in hackathons (since I'm a team player). 
 - Recently, As a Team Head, I Secured a position in the Top 30 among 958 teams in the Mercury Hackathon under the theme of Web3, Blockchain, and 
 - 2606 is a recent Google Kick Start rank. 
