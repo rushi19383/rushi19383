@@ -16,7 +16,7 @@
 
 ### 💻 Experience  
 **Tata Consultancy Services** (Pune)  
-*Java Developer (System Engineer)* | Oct 2023 - Present  
+*Java Developer (System Engineer)* |  2023 - Present  
 - Developed microservices using **Java & Spring Boot** for scalable web applications.  
 - Built RESTful APIs and integrated databases (MySQL, PostgreSQL, MongoDB).  
 - Collaborated with cross-functional teams on end-to-end microservices architecture.  
